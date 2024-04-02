@@ -2,6 +2,10 @@
 
 echo "hellow world"
 
-echo "suresh: Hi Ramesh"
-echo "Ramesh: Hi Suresh good morning"
-echo "Suresh : Good moring "
+person1=Suresh
+person2=Ramsedh
+Person3=Ravi
+
+echo "$person1: Hi $person2"
+echo "$person2: Hi $person1 good morning"
+echo "$person1 : Good moring "
