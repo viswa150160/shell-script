@@ -3,7 +3,7 @@
 echo "hellow world"
 
 person1=Suresh
-person2=Ramsedh
+person2=Rammesh
 Person3=Ravi
 
 echo "$person1: Hi $person2"
